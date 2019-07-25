@@ -264,4 +264,5 @@ class bug_feature extends CI_Controller {
         else
             echo 0;
     }
+	//đã sửa ở đây
 }
