@@ -4,3 +4,4 @@ xin chao day la branch1
 xin xhao day la branch2
 
 >>>>>>> branch2
+ahihihi
